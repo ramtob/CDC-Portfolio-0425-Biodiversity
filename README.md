@@ -28,3 +28,7 @@ The data consist of two datasets in CSV files:
 ### Languages
 
 The data investigation is taken place in a Python notebook **biodiversity.ipynb**
+
+### Presentation
+
+A slides presentation was also produced from the notebook. It is at [Biodiversity_Presentation.pptx](/Biodiversity_Presentation.pptx)
